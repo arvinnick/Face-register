@@ -2,3 +2,4 @@ venv
 dataset
 face_data.db
 .idea
+*.dat
